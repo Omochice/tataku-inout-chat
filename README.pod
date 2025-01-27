@@ -1,0 +1,8 @@
+---
+name: tataku-inout-chat
+description: A pack collector-chat and emitor-chat for tataku.vim
+---
+
+=pod
+
+=cut
