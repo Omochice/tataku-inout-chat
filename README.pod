@@ -1,6 +1,6 @@
 ---
-name: tataku-inout-chat
-description: A pack collector-chat and emitor-chat for tataku.vim
+name: tataku-emitter-buffer
+description: An emitter module for tataku.vim that emit chunks to specified buffer.
 ---
 
 =pod
